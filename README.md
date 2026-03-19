@@ -38,6 +38,6 @@ This Healthcare Dashboard provides a clear view of:
 4. **Dashboard Design:** Applying a minimalist, professional layout for medical data.
 
 ## Files Included
-- Healthcare Dataset (CSV(
+- Healthcare Dataset (CSV)
 - Power BI Project File (.pbix)
 - Dashboard Screenshots
